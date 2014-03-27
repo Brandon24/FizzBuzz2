@@ -1,1 +1,5 @@
 C:\Users\EAHS CS\Documents\GitHub\FizzBuzz2\FizzBuzz\FizzBuzz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EAHS CS\Documents\GitHub\FizzBuzz2\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\EAHS CS\Documents\GitHub\FizzBuzz2\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\EAHS CS\Documents\GitHub\FizzBuzz2\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.exe
+C:\Users\EAHS CS\Documents\GitHub\FizzBuzz2\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.pdb

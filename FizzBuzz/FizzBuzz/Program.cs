@@ -9,16 +9,19 @@ namespace FizzBuzz
     {
         static void Main(string[] args)
         {
+            Enumerable.Range(1, 100).ToList().ForEach(n => { Console.WriteLine(n + (n % 15 == 0 ? " FIZZBUZZ" : (n % 3 == 0 ? " FIZZ" : (n % 5 == 0 ? " BUZZ" : "")))); });
+
+
             for (int i = 1; i <= 100; i++)
             {
-                if (i  3 == 0 && i % 5 == 0)
+                if (i % 3 == 0 && i % 5 == 0)
                 {
 
                     Console.WriteLine("FizzBuzz");
                 }
 
     
-                else if (i % 10 == 0);
+                else if (i % 10 == 0)
                 {
     
     
@@ -27,14 +30,14 @@ namespace FizzBuzz
                 }
 
                 
-                else if (i % 5 == 0);
+                else if (i % 5 == 0)
                 {
                
     
                     System.Console.WriteLine("Buzz");
                 }
 
-                else
+                
                 {
 
                     Console.WriteLine(i.ToString());
